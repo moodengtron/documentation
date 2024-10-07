@@ -4,6 +4,7 @@ https://support.coinmarketcap.com/hc/en-us/requests/new?ticket_form_id=360000493
 - [New Listing] Add cryptoasset
 
 # email address
+moodengtron@gmail.com
 
 # Subject
 
@@ -14,7 +15,8 @@ MOODENG on TRON Token - MOODENG - Add cryptoasset/exchange
 I am a (doxxed) co-founder of the "community takeover" for this crypto asset. 
 
 # Project Launch Date
-
+2024-09-10 launched on sunpump.meme
+2024-09-19 Bonded on sunpump.meme and LP added
 
 # Project Name
 MOODENG on TRON
@@ -26,9 +28,10 @@ MOODENG
 memes
 
 # One-liner description
-
+MOODENG is the first token of the famous Moo Deng Hippo on the TRON network, by the community (CTO) of Tron Enthusiasts who love her.
 
 # Detailed Project Description (Cryptoasset)
+Moo Deng is a female pygmy hippopotamus born on July 10, 2024, at the Khao Kheow Open Zoo in Sriracha, Thailand. She has quickly become an internet sensation due to her adorable appearance and playful antics. Moo Deng was named after a pork dish. She is the offspring of Jonah and Tony, with siblings also named after pork dishes, reflecting a playful naming trend at the zoo. The TRON token, MOODENG is the first token on the TRON network in her name, and this is a site for the community (CTO) of Tron Enthusiasts who love Moo Deng.
 
 # Platform
 TRC-20
@@ -36,61 +39,75 @@ TRC-20
 # Chain Fork(optional)
 # Link to Logo
 
+
 # Website 1
+http://moodengtron.com/
 
 # Website 2 (Optional)(optional)
-(previously used cmc)
+https://coinmarketcap.com/dexscan/tron/TAxnxLq3u56qaFn9VZZA13yRWFC9SuB8np/
 
 # Platform of Contract Address 1
 47-Tron20
 
 # Contract Address 1
+TSJzGxAZndouVCSFeXT84uTZDLQnoBkDYC
 
 # Number of Decimals (Contract Address 1)(optional)
+18
 
 # Block Explorer 1(optional)
+https://tronscan.org/#/token20/TSJzGxAZndouVCSFeXT84uTZDLQnoBkDYC
 
 # Block Explorer(s) 2, 3, 4, 5 (e.g. Etherscan, Ethplorer)(optional)
+https://www.oklink.com/trx/address/TSJzGxAZndouVCSFeXT84uTZDLQnoBkDYC
 
 # Source Code (e.g. Github, Gitter)(optional)
+https://github.com/moodengtron/
 
 # Whitepaper / Technical Documentation(optional)
+https://github.com/moodengtron/documentation
 
 # Announcement (e.g. Bitcointalk)(optional)
 
 # Message Board 1 (e.g. Blog/Medium)(optional)
+https://medium.com/@snowkidind/moo-deng-1cb43b92a8c9
 
 # Message Board(s) 2, 3, 4, 5 (e.g. Blog/Medium)(optional)
 # Twitter
+https://x.com/moodengtron
+
 # Reddit (optional)
 # Facebook(optional)
 # Video Channel (e.g. YouTube)(optional)
 # Chat 1 (e.g. Discord, Telegram, Slack, Weibo).
+https://t.me/moodengtron
 
 # Chat(s) 2, 3, 4, 5 (e.g. Discord, Telegram, Slack, Weibo).(optional)
 # LinkedIn(optional)
 # Mobile App 1 (e.g. Google Play store, iTunes store)(optional)
 # Mobile App(s) 2, 3, 4, 5 (e.g. Google Play store, iTunes store)(optional)
 # Circulating Supply (# of coins that are circulating in the market and in the general public's hands.)
+1000000000
 
 # Total Supply (# of coins in existence right now minus any coins that have been verifiably burned.)(optional)
+899672212.534067461025497273
 
 # Max Supply (maximum # of coins that will ever exist in the lifetime of the asset)
+1000000000
 
 # Emissions Release Schedule
-
+NA
 # API endpoint that displays ONLY TOTAL SUPPLY as a NUMERICAL value (Type 'NA' if not applicable)(optional)
 
-https://cocooracle.com/api/totalcoins
 # API endpoint that displays ONLY Circulating Supply as a numerical value(optional)
 
-https://cocooracle.com/api/circulating
 
 # Annex A Rich list
 NA
 
 # List of CMC-supported exchanges(optional)
-[Optional] Are you willing to provide (dofollow) linkbacks to CMC?
+NONE
+# [Optional] Are you willing to provide (dofollow) linkbacks to CMC?
 
 # CMC Priority
 NO
